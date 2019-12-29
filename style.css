@@ -1,3 +1,8 @@
+body{
+    background-color: black;
+}
+
+
 .jumbotron{
 
     background-image: url(https://images.unsplash.com/photo-1485594050903-8e8ee7b071a8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80);
@@ -13,7 +18,7 @@ h1{
     filter: invert(1);
 }
 
-p{
+.lead{
     color:white;
     text-shadow: 0px 4px 3px rgb(0, 218, 11);
     font-size: larger;
@@ -26,6 +31,3 @@ hr{
     filter: invert(1);
 }
 
-button1{
-    margin: auto;
-}
