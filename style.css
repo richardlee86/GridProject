@@ -1,0 +1,31 @@
+.jumbotron{
+
+    background-image: url(https://images.unsplash.com/photo-1485594050903-8e8ee7b071a8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80);
+
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    color:white;
+    text-shadow: 0px 4px 3px rgb(0, 218, 11);
+    font-size: larger;
+    font-weight: 700;
+    filter: invert(1);
+}
+
+p{
+    color:white;
+    text-shadow: 0px 4px 3px rgb(0, 218, 11);
+    font-size: larger;
+    font-weight: 700;
+    filter: invert(1);
+}
+
+hr{
+    border-color: white;
+    filter: invert(1);
+}
+
+button1{
+    margin: auto;
+}
